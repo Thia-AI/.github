@@ -7,4 +7,4 @@
   </a>
 </p>
 
-## Hi there! :wave: Welcome to Thia AI
+## Hi there! Welcome to Thia AI :wave:
